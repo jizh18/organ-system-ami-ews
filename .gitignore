@@ -1,0 +1,7 @@
+data/
+*.csv
+*.csv.gz
+*.npz
+*.pkl
+*.json
+!.zenodo.json

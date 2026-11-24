@@ -1,0 +1,14 @@
+{
+  "title": "Code and protocol for: An organ-system-constrained model for interpretable early warning after acute myocardial infarction",
+  "upload_type": "software",
+  "description": "Analysis code, analysis protocol with all amendments, correction note and freeze note. No patient data are included; MIMIC-IV, MIMIC-IV-ECG and eICU-CRD are available to credentialed users through PhysioNet.",
+  "license": "MIT",
+  "creators": [
+    {"name": "Ji, Zehua", "affiliation": "Tsinghua University"},
+    {"name": "Bi, Xuanye", "affiliation": "The First Affiliated Hospital of Zhengzhou University"},
+    {"name": "Shen, Deliang", "affiliation": "The First Affiliated Hospital of Zhengzhou University"},
+    {"name": "Cang, Yueyang", "affiliation": "Tsinghua University"},
+    {"name": "Shi, Li", "affiliation": "Tsinghua University"},
+    {"name": "Que, Wenge", "affiliation": "Donghua University"}
+  ]
+}
